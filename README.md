@@ -1,2 +1,2 @@
 # Game-Untitled
-Check the docs folder found [here](./docs)
+Check the docs folder found [here](./Docs)
