@@ -82,7 +82,22 @@ Enemies will be the same for all classes but evil class variants will get differ
 Your farm land, develops in different directions based on your class. Where you will do crafting etc. Occasionally beasts will attack. If you leave it alone for too long it will start to be overrun and you’ll have to clear out beasts. Where you will level up. As you increase your level you will not be satisfied by food from normal sources anymore, hunting higher level animals and finding higher level plants will allow you to craft meals which can bring boosts and heal better.
 
 # Locations
-
+## Areas
+- **Meadows**
 - **Forest**
-- **Village/Encampment**
+- **Mountains**
 - **City**
+## Structures
+### Meadows
+- Encampment - Just a simple camp, a couple of tents and potentially some survivors.
+- Mysterious circle - The remnants of a ritual. It doesn't seem to have turned out well...
+- Base - Your home turf
+### Forest
+- Village - Seems like an odd place to build a village, but due to the increased food needs of higher level people this makes the most sense. Contains more in depth quests and hints towards the end game. Randopm encounters such as cultist attacks and villagers going insane due to the shadows as well as beast attacks.
+- Occult base - Contains cultists and weird items. Missions to go here and kill them, or if the player is a nuetral or evil party you can purchase goods from them.
+- Beast Den - 
+- Goblin village -
+### Mountains
+- Between the forest and mountains there lies a new city built by travellers to and from lands unknown
+### City
+- It's all in ruins, cultists and gods roam freely...
